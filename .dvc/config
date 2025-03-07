@@ -3,3 +3,4 @@
 ['remote "storage"']
     url = gdrive://1K-23tK78wHIH_P0JlXZOdWiXV7RP_3PP
     gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = /Users/godipally.shivakumar/Desktop/MLOPS/mlops_main/mlops-453022-4c3740e0da15.json
